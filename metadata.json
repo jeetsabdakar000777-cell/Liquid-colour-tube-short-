@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Color Sort",
+  "description": "A polished, satisfying mobile liquid color sorting puzzle game with realistic fluid physics, 200 campaign levels plus endless unlimited master levels, spin wheel rewards, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
